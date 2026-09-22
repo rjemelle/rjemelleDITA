@@ -12,6 +12,7 @@ There are three particularly common locations to find red flags in emails: the e
 Before you open an email, you should see several email previews in your inbox like the one below.
 
 You should be aware of the following signs of a potential scam in an email:
+
 2.1.1. *An Urgent Subject*: Scammers create a sense of urgency in their emails so you respond without thinking. Emails that use words like “URGENT,” or “RESPONSE NEEDED” are often phishing attempts.
 
 2.1.2. *An incorrect name*: If you know the sender and their name is spelled incorrectly, it’s likely that the email is a phishing attempt.
