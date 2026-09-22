@@ -13,7 +13,7 @@ There are three particularly common locations to find red flags in emails: the e
 ### 2.1. **Red Flags in the Email Preview**
 Before you open an email, you should see several email previews in your inbox like the one below.
 
-![Email Diagram](URGENT Need unity id crednetials.png)
+![Email Diagram](URGENTNeedunityidcrednetials.png)
 
 You should be aware of the following signs of a potential scam in an email:
 
