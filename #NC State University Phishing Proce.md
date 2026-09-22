@@ -19,10 +19,10 @@ Scammers create a sense of urgency in their emails so you respond without thinki
 2.1.2. *An incorrect name* |
 If you know the sender and their name is spelled incorrectly, it’s likely that the email is a phishing attempt.
 
+![Email Diagram](EmailPreviewfinal(1).png)
+
 ### 2.2 **Red Flags in the E-mail itself**
 If you click on the email, you may see the following red flags in the text. All of these should be treated as signs of a phishing attempt.
-
-![Email Diagram](EmailPreviewfinal(1).png)
 
 2.2.1. *Poor grammar* |
 While poor grammar is not always a sign of phishing, it is a very common phishing tell — especially if it differs from other emails you’ve received from this source.
