@@ -11,11 +11,7 @@ This procedure documents how to identify and react to phishing emails. While non
 There are three particularly common locations to find red flags in emails: the email preview, body text, and address.
 
 ### 2.1. **Red Flags in the Email Preview**
-Before you open an email, you should see several email previews in your inbox like the one below.
-
-![Email Diagram](URGENTNeedunityidcrednetials.png)
-
-You should be aware of the following signs of a potential scam in an email:
+Before you open an email, you should see several email previews in your inbox. You should be aware of the following signs of a potential scam in an email:
 
 2.1.1. *An Urgent Subject* |
 Scammers create a sense of urgency in their emails so you respond without thinking. Emails that use words like “URGENT,” or “RESPONSE NEEDED” are often phishing attempts.
@@ -26,7 +22,7 @@ If you know the sender and their name is spelled incorrectly, it’s likely that
 ### 2.2 **Red Flags in the E-mail itself**
 If you click on the email, you may see the following red flags in the text. All of these should be treated as signs of a phishing attempt.
 
-
+![Email Diagram](EmailPreviewfinal(1).png)
 
 2.2.1. *Poor grammar* |
 While poor grammar is not always a sign of phishing, it is a very common phishing tell — especially if it differs from other emails you’ve received from this source.
@@ -40,12 +36,12 @@ NC State professors and administration, along with websites you sign up for, sho
 2.2.4. *Google external account warning* |
 You see the warning symbol below when you receive emails from non-NC State accounts. If a member of the NC State community sends you an email from an external account, it may be a phishing attempt.
 
-
+![Email Diagram](EmailPreviewfinaltopreal.png)
 
 ### 2.3. **Red Flags in the E-mail address**
 Even if the email seems legitimate, you should always review the email sender’s address. There are three parts to an email address: the email domain, mail server, and username.
 
-
+![Email Diagram](URGENTNeedunityidcrednetials.png)
 
 Check all three sections to ensure the following red flags aren’t there
 
