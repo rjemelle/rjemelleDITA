@@ -52,6 +52,8 @@ If you do accidentally click a phishing link, don’t panic — you still have t
 3.2. *Alert NC State IT immediately*: You will not be penalized for clicking on a phishing link — NC State IT needs to know solely to protect you and the university. Email help@ncsu.edu or call 919-515-HELP(4357) immediately (McCollum, 2026). 
 ***
 **References**
+
 Gwenhure, A. K. (2025, November 4). University students' security behavior against email phishing attacks: insights from the health belief model. Journal of Cybersecurity, 11(1), 1-19. https://academic.oup.com/cybersecurity/article/11/1/tyaf034/8313771
+
 McCollum, S. (2026, July 7). Think Before You Click: Beware of Phishing Emails. NC State Extension. https://eit.ces.ncsu.edu/news/think-before-you-click-beware-of-phishing-emails/
 
