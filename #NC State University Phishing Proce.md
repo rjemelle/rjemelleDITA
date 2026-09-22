@@ -73,3 +73,20 @@ You will not be penalized for clicking on a phishing link — NC State IT needs 
 Gwenhure, A. K. (2025, November 4). University students' security behavior against email phishing attacks: insights from the health belief model. Journal of Cybersecurity, 11(1), 1-19. https://academic.oup.com/cybersecurity/article/11/1/tyaf034/8313771
 
 McCollum, S. (2026, July 7). Think Before You Click: Beware of Phishing Emails. NC State Extension. https://eit.ces.ncsu.edu/news/think-before-you-click-beware-of-phishing-emails/
+***
+# Reflection
+## Video
+Physical: I used Canva to design different slides and transitions to improve the visuals. I used fonts readable on a computer or phone screen, kept text on screen long enough for the reader to see and/or hear me discuss it. I paced it so points aren’t overlapping. The video is in 1080p (that’s the highest Canva allowed me to render for free. I synced audio 
+
+Cognitive: In terms of accuracy, all of the information is supported by NC State IT, the Journal of Cybersecurity, or general cybersecurity advice. I used introductory and conclusion slides. I organized it in the same structural style as the reading so . So, I started from the greeting, then moved into textual issues. The external marker was the sole exception, but that was because it technically wasn’t a part of the email body text. However, I still considered it an important part of the UI, so I kept it. 
+
+Affective: For confidence, I used sources, direct language, and references to other NC State materials with trusted authority. That direct language supported user self-efficacy—along with the fact that I avoided referencing overly technical details — hence why I didn’t explain the email address sections.
+
+Optional: I decided to play a bit with effects, especially since I was using Canva. So, I added transitions between “slides,” which allowed me to emphasize certain parts of the email. Besides that, they also provided a visual break from staring at a screen recording. This also allowed me to use “zoom shots” (transitions between close-up shots of the paper) to draw attention to important details. This also allowed me to use an asset I cut from the paper procedure because they were too long. Thus, I was able to use examples to further improve reader understanding.
+
+## Procedure
+I tried to pace all sentences with the minimal but existent context (ex. “Scammers create a sense of urgency in their emails so you respond without thinking. Emails that use words like “URGENT,” or “RESPONSE NEEDED” are often phishing attempts.”). Read to Learn to Do audiences do want to understand what they’re doing, but aren’t here to solely learn (and overexplaining will cause problems, so I ensured that the “learning” portion is as condensed as possible. I don’t overexplain context — including how to open Gmail or how to navigate the inbox. 
+
+The procedure is split into several tasks, though I will admit that I defined “task” the same for each action item — that being to look at certain features in an email to determine if they contain red flags. It’s split into the traditional “goals, prerequisites (though it’s folded into goals due to antincipated user prior knowledge), actions, and unwanted states. I clearly define the goal within the first three paragraphs. Before listing each action, I state what the reader should do for each one. Unwanted states is a brief section (because NC State’s own source is brief), but I think it’s for the best, as it gives readers confidence that they can handle the state.
+
+I used images for two purposes: clarification and examples. I used the picture of the email to quickly diagram the different parts of the email so I could explain the different ways scammers attempt to trick students. It allowed me to avoid explaining the location of the text within the email address, which would have been clunky and overly-wordy. Otherwise, I used it to provide examples of possible errors (see the first email preview picture), or to show where certain indicators are located (the external symbol). I also used them to break up the rhythm of text, but that was more of a plus rather than the main goal.
