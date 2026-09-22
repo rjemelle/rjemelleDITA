@@ -1,5 +1,5 @@
 # ***NC State University Phishing Procedure***
-DETAILS
+
 1. ## *Goals & Prerequisites*
 Email phishing is when scammers trick people into sharing personal information via email. A study of university students specifically found that almost 70% of university students clicked on phishing emails (Gwenhure, 2025, 4). Phishing emails can lead to identity theft, financial loss, and to further phishing using your account.
 
