@@ -1,11 +1,11 @@
 # ***NC State University Phishing Procedure***
 
-## 1.  Goals & Prerequisites
+## 1.  ***Goals & Prerequisites***
 Email phishing is when scammers trick people into sharing personal information via email. A study of university students specifically found that almost 70% of university students clicked on phishing emails (Gwenhure, 2025, 4). Phishing emails can lead to identity theft, financial loss, and to further phishing using your account.
 
 This procedure documents how to identify and react to phishing emails. While none of these factors mean an email is absolutely a scam, students should use their best judgment.
 
-## 2. Actions
+## 2. ***Actions***
 There are three particularly common locations to find red flags in emails: the email preview, body text, and address.
 
 ### 2.1. **Red Flags in the Email Preview**
@@ -38,12 +38,12 @@ Check all three sections to ensure the following red flags aren’t there
 
 2.3.3 *Incorrect domain*: Emails from organizations will come from a specific type of domain. Depending on the company, the domain may be a .org, .edu, or .com. Make sure the email’s domain matches what you’d usually receive from that address. All emails from NC State accounts should come from a .edu domain.
 
-### 2.4.. Verifying and Reporting
+### 2.4. **Verifying and Reporting**
 If you believe an email is a phishing attempt, do not respond. If you need to verify the email is a phishing attempt, contact the real sender via a verified alternative platform, like your phone or another email. If you do not know the sender, and you are not sure they are a legitimate source, do not respond.
 
 If you confirm it is a phishing attempt or can tell it is a phishing attempt, then report it to NC State immediately. To learn how to report phishing emails to NC State, visit this link.
 
-## 3.  Warning
+## ***3.  Warning***
 If you do accidentally click a phishing link, don’t panic — you still have time to minimize damage. Do the following:
 
 3.1. *Change phishing-affected passwords*: If you clicked on a link or sent a password, change the potentially compromised account’s password immediately. For example, if you clicked on an email, change your email password.
