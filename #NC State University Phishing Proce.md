@@ -1,7 +1,9 @@
 # ***NC State University Phishing Procedure***
 
 ## 1.  ***Goals & Prerequisites***
-Email phishing is when scammers trick people into sharing personal information via email. A study of university students specifically found that almost 70% of university students clicked on phishing emails (Gwenhure, 2025, 4). Phishing emails can lead to identity theft, financial loss, and to further phishing using your account.
+One of the most common scams today is email phishing: tricking people into sharing personal information via email. By replying with personal information or clicking a link, your account can quickly become compromised. 
+
+A study of university students specifically found that almost 70% of university students clicked on phishing emails (Gwenhure, 2025, 4). Phishing emails can lead to identity theft, financial loss, and to further phishing using your account.
 
 This procedure documents how to identify and react to phishing emails. While none of these factors mean an email is absolutely a scam, students should use their best judgment.
 
@@ -10,6 +12,8 @@ There are three particularly common locations to find red flags in emails: the e
 
 ### 2.1. **Red Flags in the Email Preview**
 Before you open an email, you should see several email previews in your inbox like the one below.
+
+
 
 You should be aware of the following signs of a potential scam in an email:
 
@@ -20,6 +24,8 @@ You should be aware of the following signs of a potential scam in an email:
 ### 2.2 **Red Flags in the E-mail itself**
 If you click on the email, you may see the following red flags in the text. All of these should be treated as signs of a phishing attempt.
 
+
+
 2.2.1. *Poor grammar*: While poor grammar is not always a sign of phishing, it is a very common phishing tell — especially if it differs from other emails you’ve received from this source.
 
 2.2.2. *Personal information requests*: NC State and its employees will never ask for your personal information over email. Any email requesting usernames, passwords, or financial information is a likely phishing attempt.
@@ -28,8 +34,12 @@ If you click on the email, you may see the following red flags in the text. All 
 
 2.2.4. *Google external account warning*:  You see the warning symbol below when you receive emails from non-NC State accounts. If a member of the NC State community sends you an email from an external account, it may be a phishing attempt.
 
+
+
 ### 2.3. **Red Flags in the E-mail address**
 Even if the email seems legitimate, you should always review the email sender’s address. There are three parts to an email address: the email domain, mail server, and username.
+
+
 
 Check all three sections to ensure the following red flags aren’t there
 
