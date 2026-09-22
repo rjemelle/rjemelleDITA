@@ -3,7 +3,7 @@
 ## 1.  ***Goals & Prerequisites***
 One of the most common scams today is email phishing: tricking people into sharing personal information via email. By replying with personal information or clicking a link, your account can quickly become compromised. 
 
-A study of university students specifically found that almost 70% of university students clicked on phishing emails (Gwenhure, 2025, 4). Phishing emails can lead to identity theft, financial loss, and to further phishing using your account.
+A study of university students specifically found that almost 70% of university students clicked on phishing emails (Gwenhure, 2025, 4). Fallling for phishing emails can lead to identity theft, financial loss, and to further phishing using your account.
 
 This procedure documents how to identify and react to phishing emails. While none of these factors mean an email is absolutely a scam, students should use their best judgment.
 
@@ -11,7 +11,7 @@ This procedure documents how to identify and react to phishing emails. While non
 There are three particularly common locations to find red flags in emails: the email preview, body text, and address.
 
 ### 2.1. **Red Flags in the Email Preview**
-Before you open an email, you should see several email previews in your inbox. You should be aware of the following signs of a potential scam in an email:
+Before you open an email, you should see several email previews in your inbox. All of these should be treated as signs of a potential phishing attempt.
 
 2.1.1. *An Urgent Subject* |
 Scammers create a sense of urgency in their emails so you respond without thinking. Emails that use words like “URGENT,” or “RESPONSE NEEDED” are often phishing attempts.
@@ -22,7 +22,7 @@ If you know the sender and their name is spelled incorrectly, it’s likely that
 ![Email Diagram](EmailPreviewfinal(1).png)
 
 ### 2.2 **Red Flags in the E-mail itself**
-If you click on the email, you may see the following red flags in the text. All of these should be treated as signs of a phishing attempt.
+If you click on the email, you may see the following red flags in the text. All of these should be treated as signs of a potential phishing attempt.
 
 2.2.1. *Poor grammar* |
 While poor grammar is not always a sign of phishing, it is a very common phishing tell — especially if it differs from other emails you’ve received from this source.
@@ -43,7 +43,7 @@ Even if the email seems legitimate, you should always review the email sender’
 
 ![Email Diagram](URGENTNeedunityidcrednetials.png)
 
-Check all three sections to ensure the following red flags aren’t there
+All of these should be treated as signs of a potential phishing attempt.
 
 2.3.1 *Odd username* |
 Sometimes the username has nothing to do with the user’s name—or is an incorrectly spelled version of the user’s name. If the username seems completely unfitting, it’s likely  phishing
